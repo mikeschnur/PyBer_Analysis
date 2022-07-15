@@ -15,5 +15,5 @@ This analysis aimed to make a summary dataframe that displays the differnces rid
 
 # Suggestions
 1. Allocate more drivers to Suburban and Rural areas, because the Rides to Drivers ratio is much higher in Rural and Suburban areas than Urban.
-2. Adjust prices based on weeks or days when travel may be increased (Christmas, Thanksgiving)
-3. Create 
+2. Adjust prices based on weeks or days when travel may be increased (Christmas, Thanksgiving).
+3. Create one-time discount for people in Rural areas to increase in the amount of rides while still keeping the Average Fare consistent with other areas.
